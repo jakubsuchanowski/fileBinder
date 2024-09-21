@@ -1,3 +1,3 @@
-Number of all files: 2
+Number of all files: 4
 Number of files in dev's directory: 2
 Number of files in test's directory: 0
